@@ -58,7 +58,6 @@ img:hover {
   grid-template-columns: repeat(3, 32%);
     grid-template-rows: repeat(3, auto);
 grid-gap: 0px;
-width: 32%;
 justify-content: center;
 }
 .photo-1{

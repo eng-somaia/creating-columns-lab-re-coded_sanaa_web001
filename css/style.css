@@ -47,9 +47,11 @@ img:hover {
   background-color: #dd4444;
 }
 .column{
-  display: flex;
-   justify-content: center; align-items: center;
-   height: 100%; width: auto;
+  display: inline-grid;
+   justify-content: space-around;; 
+   align-items:center;
+   height: 100%;
+   width: auto;
 }
 .imgclass{
   display: inline-flex; flex-flow: row wrap;

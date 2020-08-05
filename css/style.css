@@ -57,7 +57,7 @@ img:hover {
   display: grid;
   grid-template-columns: repeat(3, auto);
     grid-template-rows: repeat(3, auto);
-grid-gap: opx;
+grid-gap: 0px;
 }
 .photo-1{
   grid-column-start: 3;

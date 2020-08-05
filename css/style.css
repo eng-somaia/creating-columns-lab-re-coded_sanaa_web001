@@ -55,11 +55,6 @@ img:hover {
    height: 100%;
    width: auto;
 }
-.imgclass{
-  display: inline-flex; flex-flow: row wrap;
-    justify-content: center; align-items: center; align-content: center;
-
-}
 .photo-1{
   grid-column-start: 1;
   grid-column-end: 3;

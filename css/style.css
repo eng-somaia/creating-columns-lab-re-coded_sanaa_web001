@@ -50,6 +50,7 @@ img:hover {
   display: inline-grid;
   grid-template-columns: 33.3% 33.3% 33.3%;
   grid-template-rows: auto auto auto;
+  justify-content: stretch;
 }
 .photo-1{
   grid-column-start: 3;

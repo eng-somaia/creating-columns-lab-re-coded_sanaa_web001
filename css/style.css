@@ -100,7 +100,8 @@ justify-content: center;
   object-fit: cover;
 }
 .med{
-
+  width: 80%;
+  height:80%;
   display: inline-block;
   object-fit: cover;
 

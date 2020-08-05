@@ -97,6 +97,7 @@ img:hover {
   width: 70%;
   height:70%;
   display: inline-block;
+  object-fit: cover;
 
 }
 .large{

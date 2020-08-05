@@ -55,7 +55,7 @@ img:hover {
 }
 .column{
   display: grid;
-  grid-template-columns: repeat(3, auto);
+  grid-template-columns: repeat(3, 32%);
     grid-template-rows: repeat(3, auto);
 grid-gap: 0px;
 width: 32%;

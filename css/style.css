@@ -48,6 +48,8 @@ img:hover {
 }
 .column{
   display: inline-grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
    justify-content: space-around;;
    align-items:center;
    height: 100%;

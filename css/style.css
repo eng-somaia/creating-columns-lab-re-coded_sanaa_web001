@@ -96,7 +96,7 @@ justify-content: center;
   grid-row-end: 4;
 }
 .small{
-  width: 100%;
+  width: 90%;
   height:100%;
   display: inline-block;
   object-fit: cover;

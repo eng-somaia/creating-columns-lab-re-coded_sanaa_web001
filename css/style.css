@@ -97,7 +97,7 @@ justify-content: center;
 }
 .small{
   width: 90%;
-  height:90%;
+  height:100%;
   display: inline-block;
   object-fit: cover;
 }

@@ -97,7 +97,7 @@ img:hover {
 .med{
   width: 70%;
   height:70%;
-  display: inline-block;
+  display: block;
   object-fit: cover;
 
 }

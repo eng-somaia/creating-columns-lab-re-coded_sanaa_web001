@@ -96,8 +96,6 @@ justify-content: center;
   grid-row-end: 4;
 }
 .small{
-  width: 40%;
-  height: 40%;
   display: inline-block;
   object-fit: cover;
 }

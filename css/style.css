@@ -54,7 +54,7 @@ img:hover {
   background-color: #dd4444;
 }
 .column{
-  display: inline-grid;
+  display: grid;
   grid-template-columns: repeat(3, auto);
     grid-template-rows: repeat(3, auto);
   justify-content: stretch;

@@ -57,7 +57,6 @@ img:hover {
   display: grid;
   grid-template-columns: repeat(3, 32%);
     grid-template-rows: repeat(3, auto);
-grid-gap: 0px;
 justify-content: center;
 }
 .photo-1{
@@ -99,7 +98,6 @@ justify-content: center;
   width: 90%;
   height:100%;
   display: inline-block;
-  object-fit: cover;
 }
 .med{
   width: 100%;

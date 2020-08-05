@@ -69,6 +69,7 @@ img:hover {
   grid-column-end: 2;
   grid-row-start: 3;
   grid-row-end: 4;
+  justify-content: flex-start;
 }
 .photo-4{
   grid-column-start: 1;

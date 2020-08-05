@@ -90,8 +90,7 @@ img:hover {
 .small{
   width: 40%;
   height: 40%;
-  display: inline-block;
-
+object-fit: cover;
 }
 .med{
   width: 70%;

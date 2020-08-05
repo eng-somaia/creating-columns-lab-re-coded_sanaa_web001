@@ -126,7 +126,6 @@ justify-content: center;
 .large{
   width: 90%;
   height: 80%;
-  object-fit: cover;
 
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */

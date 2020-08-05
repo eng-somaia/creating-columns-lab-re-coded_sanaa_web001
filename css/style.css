@@ -96,7 +96,9 @@ justify-content: center;
   grid-row-end: 4;
 }
 .small{
-
+  width: 50%;
+  height:50%;
+  display: inline-block;
   object-fit: cover;
 }
 .med{
